@@ -1,2 +1,2 @@
 It's me aika.
-I using here just for fun.
+I'm using here just for fun.
