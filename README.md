@@ -5,7 +5,7 @@ Techs/Langs
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 -------------------------------------------------------------------------
-![](https://komarev.com/ghpvc/?username=itmeAika&color=blueviolet)
--------------------------------------------------------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeAika&layout=compact)
+-------------------------------------------------------------------------
+![](https://komarev.com/ghpvc/?username=itmeAika&color=blueviolet)
 
