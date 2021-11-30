@@ -7,4 +7,4 @@ Techs/Langs
 -------------------------------------------------------------------------
 ![](https://komarev.com/ghpvc/?username=itmeAika&color=blueviolet)
 -------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?itmeAika=anuraghazra&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?itsmeAika=anuraghazra&layout=compact)]
